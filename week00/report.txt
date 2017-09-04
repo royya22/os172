@@ -1,0 +1,4 @@
+kegiatan week00 :
+- membuat akun github
+- membuat sebuah repositori bernama "os172"
+- mendaftarkan akun untuk masuk ke badak.cs.ui.ac.id
