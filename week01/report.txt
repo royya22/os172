@@ -1,0 +1,7 @@
+kegiatan week01 :
+- clone reository github ke server badak
+- membuat beberapa folder baru
+- membuat report pada folder week00
+- membuat record lab01 pada folder week01
+- push repository ke github
+- pull repository ke server badak
