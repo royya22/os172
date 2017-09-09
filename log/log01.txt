@@ -1,0 +1,12 @@
+w01-170905-10-LR-About : Introduction, From : week-00-introduction
+w01-170905-10-LR-About : Introduction, From : week-00-introduction
+w01-170906-10-PS-About : Clone Git Repository
+w01-170906-10-PS-About : Clone Git Repository
+w01-170906-11-PS-About : Intro to Git
+w01-170906-11-PS-About : Intro to Git
+w01-170906-12-PS-About : Intro to CLI
+w01-170906-12-PS-About : Intro to CLI
+w01-170906-13-PS-About : Intro to Scripting
+w01-170906-13-PS-About : Intro to Scripting
+w01-170907-10-LR-About : Pengenalan Lisensi Perangkat Lunak Bebas, From : Modul week-02-HKI
+w01-170907-10-LR-About : Pengenalan Lisensi Perangkat Lunak Bebas, From : Modul week-02-HKI
