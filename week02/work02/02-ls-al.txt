@@ -1,6 +1,0 @@
-total 16
-drwxr-xr-x 2 ar.royya StafCS 4096 Sep 14 13:36 .
-drwxr-xr-x 3 ar.royya StafCS 4096 Sep 14 13:19 ..
--rw-r--r-- 1 ar.royya StafCS 1612 Sep 14 13:32 00-toc.txt
--rw-r--r-- 1 ar.royya StafCS 3158 Sep 14 13:33 01-public-osteam.txt
--rw-r--r-- 1 ar.royya StafCS    0 Sep 14 13:36 02-ls-al.txt
