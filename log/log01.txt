@@ -1,12 +1,4 @@
-w01-170905-10-LR-About : Introduction, From : week-00-introduction
-w01-170905-10-LR-About : Introduction, From : week-00-introduction
-w01-170906-10-PS-About : Clone Git Repository
-w01-170906-10-PS-About : Clone Git Repository
-w01-170906-11-PS-About : Intro to Git
-w01-170906-11-PS-About : Intro to Git
-w01-170906-12-PS-About : Intro to CLI
-w01-170906-12-PS-About : Intro to CLI
-w01-170906-13-PS-About : Intro to Scripting
-w01-170906-13-PS-About : Intro to Scripting
-w01-170907-10-LR-About : Pengenalan Lisensi Perangkat Lunak Bebas, From : Modul week-02-HKI
-w01-170907-10-LR-About : Pengenalan Lisensi Perangkat Lunak Bebas, From : Modul week-02-HKI
+1. kekayaan intel : karya cipta -> musik, rancangan, ide, dll.
+2. haki : merek dagang (tm), servicemark (sm), rahasia dagang, copyright, paten,dll.
+3. UU/30/2000 : informasi yg tidak diketahui oleh umum Tek/Bis karena ada nilai eko berguna dlm bisnis & dijaga pemilik
+4. lisensi : izin yg diberikan oleh pemegang hak rahasia dagang kepada pihak lain
